@@ -13,37 +13,6 @@
 
 </div>
 
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,cpp,html,css,js,git,github&theme=dark" />
-</p>
-
----
-
-### 📌 Projects
-
-🍳 **[resepku](https://github.com/dwiahmad02/resepku)**  
-Recipe web app with likes, comments, and an admin panel.
-
-🤱 **[pulih-bunda](https://github.com/pulih-bunda/pulih-bunda)**  
-Postpartum support for mothers and their partners.
-
-🔩 **[metal-contamination-yolov8](https://github.com/dwiahmad02/metal-contamination-yolov8)**  
-Metal contamination detection with YOLOv8 and a Gradio demo.
-
----
-
-### 📊 Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dwiahmad02&theme=github-dark-blue&hide_border=true&background=0D1117" />
-</p>
-
----
-
 <div align="center">
 
 <a href="mailto:dwiahmad641@gmail.com"><img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=white"/></a>
