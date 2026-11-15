@@ -6,11 +6,10 @@
 </p>
 
 ## 👨‍💻 About Me
-- 🎓 Student at *(isi kampus / jurusan)*
-- 🔭 Currently working on: **resepku**, **pulih-bunda**, **metal-contamination-yolov8**
+- 🎓 Student at Esa Unggul University
 - 🛠️ Interested in: Web Development, Computer Vision, Machine Learning
-- 🌱 Learning: *(isi yang sedang kamu pelajari)*
-- 📫 Reach me: *(email kamu)*
+- 🌱 Learning: Reverse Engineering
+- 📫 Reach me: dwiahmad641@gmail.com
 
 ## 🧰 Tech Stack
 <p>
