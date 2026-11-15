@@ -24,17 +24,16 @@
 | [metal-contamination-yolov8](https://github.com/dwiahmad02/metal-contamination-yolov8) | Detects metal contamination (can, foil, spoon, fork) with YOLOv8 + Gradio demo |
 
 ## 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dwiahmad02&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwiahmad02&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dwiahmad02&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
